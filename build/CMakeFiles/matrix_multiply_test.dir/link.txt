@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=leak -fsanitize=address -fsanitize=undefined -g -ggdb3 -Wall -Wextra -g CMakeFiles/matrix_multiply_test.dir/main.cpp.o -o matrix_multiply_test 

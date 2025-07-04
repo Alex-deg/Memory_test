@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/alex/Протей/ДЗ №4 Управление памятью/IT_homework/build",
+  "command": "/usr/bin/c++    -fsanitize=leak -fsanitize=address -fsanitize=undefined -g -ggdb3 -Wall -Wextra -g -std=gnu++23 -o CMakeFiles/matrix_multiply_test.dir/main.cpp.o -c \"/home/alex/Протей/ДЗ №4 Управление памятью/IT_homework/main.cpp\"",
+  "file": "/home/alex/Протей/ДЗ №4 Управление памятью/IT_homework/main.cpp",
+  "output": "CMakeFiles/matrix_multiply_test.dir/main.cpp.o"
+}
+]

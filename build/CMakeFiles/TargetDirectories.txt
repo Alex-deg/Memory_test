@@ -1,0 +1,3 @@
+/home/alex/Протей/ДЗ №4 Управление памятью/IT_homework/build/CMakeFiles/matrix_multiply_test.dir
+/home/alex/Протей/ДЗ №4 Управление памятью/IT_homework/build/CMakeFiles/edit_cache.dir
+/home/alex/Протей/ДЗ №4 Управление памятью/IT_homework/build/CMakeFiles/rebuild_cache.dir
