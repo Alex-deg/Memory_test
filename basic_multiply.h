@@ -2,11 +2,15 @@
 
 #include "matrix.h"
 
+// Варианты:
+// - обход не по строкам, а по столбцам
+// - использовать одномерный массив для хранения матрицы
+// 
+
 inline matrix basic_multiply(matrix const &a, matrix const &b) {
     auto [a_cols, a_rows] = a.size();
     auto [b_cols, b_rows] = b.size();
     matrix result(a_rows, b_cols);
-
     for (size_t i = 0; i < a_rows; ++i) {
         for (size_t j = 0; j < b_cols; ++j) {
             result[i][j] = 0;
@@ -15,6 +19,6 @@ inline matrix basic_multiply(matrix const &a, matrix const &b) {
             }
         }
     }
-
     return result;
 }
+
